@@ -1,0 +1,35 @@
+{
+  "id": "sd_20250607_farm_rain",
+  "title": "雨中农场",
+  "subtitle": "Mellows",
+  "author": "Mellows Studio",
+  "duration": 32,
+  "categoryId": "nature",
+  "tags": ["rain", "farm", "relaxing"],
+  "type": "environment",
+  "description": "A peaceful forest morning",
+  "isFree": true,
+  "popularity": 98,
+  "recommended": true,
+  "version": 1,
+  "sounds": [
+    {
+      "sound": "se_20250607_thunder",
+      "position": { "x": -0.9, "y": 0.9 },
+      "volume": 1.0,
+      "label": "雷"
+    },
+    {
+      "sound": "se_20250607_rainfall",
+      "position": { "x": 0.2, "y": -0.1 },
+      "volume": 1.0,
+      "label": "雨"
+    },
+    {
+      "sound": "se_20250607_farm",
+      "position": { "x": 0.0, "y": 0.2 },
+      "volume": 1.0,
+      "label": "农场"
+    }
+  ]
+}

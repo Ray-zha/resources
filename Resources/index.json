@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "updatedAt": "2025-06-06",
+  "sections": [
+    {
+      "_id": "nature_moments",
+      "title": "自然片刻",
+      "soundscapeIds": ["sd_20250607_forest_morning", "sd_20250607_farm_rain"]
+    }
+  ]
+}

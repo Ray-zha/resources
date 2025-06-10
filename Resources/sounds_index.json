@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": "2025-06-07",
+  "categories": [
+      {
+        "id": "nature",
+        "title": "Nature",
+        "tagIds": ["rain", "wind", "forest"]
+      },
+      {
+        "id": "ambient",
+        "title": "Ambient",
+        "tagIds": ["soft", "deep", "airy"]
+      },
+      {
+        "id": "tones",
+        "title": "Tones",
+        "tagIds": ["low", "high", "bell"]
+      }
+  ],
+  "tags": [
+        { "id": "rain", "title": "Rain" },
+        { "id": "fire", "title": "Fire" },
+        { "id": "insects", "title": "Insects" },
+        { "id": "water", "title": "Water" },
+        { "id": "wind", "title": "Wind" },
+        { "id": "farm", "title": "Farm" },
+        { "id": "soft", "title": "soft" }
+  ],
+  "soundscapeIds": [
+    "sd_20250607_forest_morning",
+    "sd_20250607_farm_rain",
+    "sd_20250607_farm_rains"
+
+  ]
+}
