@@ -21,13 +21,13 @@
     },
     {
       "sound": "se_20250607_bugs",
-      "position": { "x": 0.3, "y": -0.2 },
+      "position": { "x": 0.0, "y": -0.0 },
       "volume": 1.0,
       "label": "虫"
     },
     {
       "sound": "se_20250607_waves",
-      "position": { "x": 0.0, "y": 0.2 },
+      "position": { "x": 0.0, "y": 0.0 },
       "volume": 1.0,
       "label": "水"
     }
