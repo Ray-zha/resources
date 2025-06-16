@@ -7,7 +7,6 @@
   "typeId": "type1",
   "categoryId": "category1",
   "tags": ["campfire", "farm", "relaxing"],
-  "type": "environment",
   "description": "我坐在火堆旁，火看到了我的影子",
   "isFree": true,
   "popularity": 98,
