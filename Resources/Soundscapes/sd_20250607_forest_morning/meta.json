@@ -16,7 +16,7 @@
     {
       "sound": "se_20250607_campfire",
       "position": { "x": 0.0, "y": 0.5 },
-      "volume": 1.0,
+      "volume": 0.5,
       "label": "火"
     },
     {
