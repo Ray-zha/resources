@@ -15,19 +15,19 @@
   "sounds": [
     {
       "sound": "se_20250607_thunder",
-      "position": { "x": -0.9, "y": 0.9 },
+      "position":  {"angle": 21, "radius": 0.2  },
       "volume": 1.0,
       "label": "雷"
     },
     {
       "sound": "se_20250607_rainfall",
-      "position": { "x": 0.2, "y": -0.1 },
+      "position":  {"angle": 90, "radius": 0.3  },
       "volume": 1.0,
       "label": "雨"
     },
     {
       "sound": "se_20250607_farm",
-      "position": { "x": -0.3, "y": 0.5 },
+      "position":  {"angle": 320, "radius": 0.15  },
       "volume": 1.0,
       "label": "农场"
     }
