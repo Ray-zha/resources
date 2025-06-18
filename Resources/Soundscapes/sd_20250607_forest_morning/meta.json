@@ -15,19 +15,19 @@
   "sounds": [
     {
       "sound": "se_20250607_campfire",
-      "position": { "x": 0.0, "y": 0.7 },
+      "position": {"angle": 135,"radius": 0.45  },
       "volume": 1.0,
       "label": "火"
     },
     {
       "sound": "se_20250607_bugs",
-      "position": { "x": 0.3, "y": -0.4 },
+      "position": {"angle": 45,"radius": 0.15  },
       "volume": 1.0,
       "label": "虫"
     },
     {
       "sound": "se_20250607_waves",
-      "position": { "x": -0.6, "y": 0.1 },
+      "position":  {"angle": 0,"radius": 0.3  },
       "volume": 1.0,
       "label": "水"
     }
