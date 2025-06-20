@@ -1,0 +1,35 @@
+{
+  "id": "sd_20250607_sd_20250620_worksnow",
+  "title": "风雪夜归人",
+  "subtitle": "Mellows",
+  "author": "Rayz",
+  "duration": 32,
+  "typeId": "type1",
+  "categoryId": "category1",
+  "tags": ["snow", "walk", "dog"],
+  "description": "雪没停，我的脚步怎么能停",
+  "isFree": true,
+  "popularity": 98,
+  "recommended": true,
+  "version": 1,
+  "sounds": [
+    {
+      "sound": "se_20250617_dog",
+      "position": {"x": 0.3, "y": 0.4 },
+      "volume": 1.0,
+      "label": "狗"
+    },
+    {
+      "sound": "se_20250617_wind",
+      "position": {"x": 0.0, "y": -0.5 },
+      "volume": 1.0,
+      "label": "风"
+    },
+    {
+      "sound": "se_20250607_walkinsnow",
+      "position":  {"x": -0.0, "y": 0.2 },
+      "volume": 1.0,
+      "label": "雪"
+    }
+  ]
+}
