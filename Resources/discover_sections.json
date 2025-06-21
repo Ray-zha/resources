@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2025-06-21T12:00:00Z",
+  "sections": [
+    {
+      "id": "section_recent",
+      "title": "最近在听",
+      "soundscapeIds": [
+        "sd_20250607_forest_morning",
+        "sd_20250607_farm_rain"
+      ]
+    },
+    {
+      "id": "section_recommended",
+      "title": "为你推荐",
+      "soundscapeIds": [
+        "sd_20250607_farm_rain",
+        "sd_20250607_thunderstorm"
+      ]
+    },
+    {
+      "id": "section_new",
+      "title": "最近上新",
+      "soundscapeIds": [
+        "sd_20250607_thunderstorm",
+        "sd_20250607_forest_morning"
+      ]
+    }
+  ]
+}
