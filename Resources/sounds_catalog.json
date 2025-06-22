@@ -1,24 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2025-06-22",
-  "types": [
-    {
-      "typeId": "type1",
-      "title": "Sounds",
-      "categories": [
-        {
-          "categoryId": "category1",
-          "title": "Nature",
-          "soundscapeIds": [
-            "sd_20250607_forest_morning",
-            "sd_20250607_farm_rain"
-          ]
-        }
-      ]
-    }
-  ],
+  "updatedAt": "2025-06-16",
   "soundscapeIds": [
+    "sd_20250620_work_snow",
     "sd_20250607_forest_morning",
-    "sd_20250607_farm_rain"
+    "sd_20250607_farm_rain",
+    "sd_20250607_farm_rains"
+
   ]
 }
