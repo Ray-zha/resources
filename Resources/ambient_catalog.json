@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2025-06-22",
+  "types": [],
+  "categories": [
+    { "categoryId": "category3", "title": "旋律" },
+    { "categoryId": "category4", "title": "轻音乐" }
+  ],
+  "tags": [],
+  "soundscapeIds": ["sd_20250607_forest_morning"],
+  "sections": []
+}

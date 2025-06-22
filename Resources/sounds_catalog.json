@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updatedAt": "2025-06-22",
+  "types": [],
+  "categories": [
+    { "categoryId": "category1", "title": "Nature" },
+    { "categoryId": "category2", "title": "Urban" }
+  ],
+  "tags": [],
+  "soundscapeIds": ["sd_20250607_forest_morning", "sd_20250607_farm_rain"],
+  "sections": []
+}
