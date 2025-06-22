@@ -1,0 +1,35 @@
+{
+  "id": "sd_20250607_forest_morning",
+  "title": "森林篝火",
+  "subtitle": "Mellows",
+  "author": "Rayz",
+  "duration": 32,
+  "categoryId": "nature",
+  "tags": ["wind", "farm", "relaxing"],
+  "type": "environment",
+  "description": "我坐在火堆旁，火看到了我的影子",
+  "isFree": true,
+  "popularity": 98,
+  "recommended": true,
+  "version": 1,
+  "sounds": [
+    {
+      "sound": "se_20250607_campfire",
+      "position": { "x": 0.0, "y": 0.0 },
+      "volume": 1.0,
+      "label": "火"
+    },
+    {
+      "sound": "se_20250607_bugs",
+      "position": { "x": 0.3, "y": -0.2 },
+      "volume": 1.0,
+      "label": "虫"
+    },
+    {
+      "sound": "se_20250607_waves",
+      "position": { "x": 0.0, "y": 0.2 },
+      "volume": 1.0,
+      "label": "水"
+    }
+  ]
+}
