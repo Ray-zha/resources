@@ -16,5 +16,9 @@
         }
       ]
     }
+  ],
+  "soundscapeIds": [
+    "sd_20250607_forest_morning",
+    "sd_20250607_farm_rain"
   ]
 }
