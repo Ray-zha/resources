@@ -1,0 +1,34 @@
+name: Generate Soundscape Catalog
+
+on:
+  push:
+    paths:
+      - 'Resources/Soundscapes/**/meta.json'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install PyYAML
+
+      - name: Generate soundscape_catalog.json
+        run: |
+          python3 scripts/generate_soundscape_catalog.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Resources/soundscape_catalog.json
+          git commit -m "🔄 Auto-generate soundscape_catalog.json"
+          git push
