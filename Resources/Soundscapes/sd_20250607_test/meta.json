@@ -1,13 +1,13 @@
 {
-  "id": "sd_20250607_forest_morning",
-  "title": "森林篝火",
+  "id": "sd_20250607_test",
+  "title": "测试用",
   "subtitle": "Mellows",
   "author": "Rayz",
   "duration": 32,
-  "categoryId": "nature",
-  "tags": ["wind", "farm", "relaxing"],
-  "type": "environment",
-  "description": "我坐在火堆旁，火看到了我的影子",
+  "typeId": "type1",
+  "categoryId": "category1",
+  "tags": ["campfire", "farm", "relaxing"],
+  "description": "等我上线，等我吃牛腿",
   "isFree": true,
   "popularity": 98,
   "recommended": true,
@@ -15,13 +15,13 @@
   "sounds": [
     {
       "sound": "se_20250607_campfire",
-      "position": { "x": 0.0, "y": 0.0 },
+      "position": { "x": 0.2, "y": 0.0 },
       "volume": 1.0,
       "label": "火"
     },
     {
       "sound": "se_20250607_bugs",
-      "position": { "x": 0.3, "y": -0.2 },
+      "position": { "x": 0.3, "y": -0.3 },
       "volume": 1.0,
       "label": "虫"
     },
